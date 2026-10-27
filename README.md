@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Efosa Ero</h1>
-<h3 align="center">A passionate fullstack developer from Nigeria</h3>
+<h1 align="center">Meet Efosa Ero</h1>
+<h3 align="center">A computational neuroscientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efoxa&label=Profile%20views&color=0e75b6&style=flat" alt="efoxa" /> </p>
 
@@ -7,13 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/efosaero_u" target="blank"><img src="https://img.shields.io/twitter/follow/efosaero_u?logo=twitter&style=for-the-badge" alt="efosaero_u" /></a> </p>
 
-- 🔭 I’m currently working on [Creativestart.io](https://github.com/Creative-Start/Starters-company-site)
+- 🔭 I’m currently working on [Fasting and Prefrontal Brain Activity During Cognitive Tasks
+A Multimodal Portable EEG (Muse) and fNIRS (Mendi) Crossover Pilot Study (A NEND Pilot study)](https://github.com/NEND-Lab)
 
-- 🌱 I’m currently learning **React** and **PHP**
-
-- 💬 Ask me about **css. js. Next.js**
-
-- 📫 How to reach me **eroefosa9@gmail.com**
+- 📫 How to reach me **efosaerousiosefe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
